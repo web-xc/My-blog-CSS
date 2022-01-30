@@ -15,25 +15,37 @@
 
 .icon-QQyinle:before {
   content: "\e819";
+  font-style: 22px;
+  color: rgb(16, 164, 255);
 }
 
 .icon-weixin:before {
   content: "\e637";
+  font-size: 22px;
+  color: #00bf03;
 }
 
 .icon-weixin1:before {
   content: "\e665";
+  font-size: 22px;
+  color: #00bf03;
 }
 
 .icon-QQ:before {
   content: "\e667";
+  font-size: 22px;
+  color: rgb(16, 164, 255);
 }
 
 .icon-wangyiyun:before {
   content: "\e601";
+  font-size: 22px;
+  color: #ce1414;
 }
 
 .icon-github:before {
   content: "\e673";
+  font-size: 22px;
+  color: #2c312e;
 }
 
