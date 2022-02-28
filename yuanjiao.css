@@ -4,23 +4,23 @@ img[src*="#img-radius"] {
 }
 /* 侧边栏圆角 */
 #aside-content .card-widget {
-  border-radius: 25px;
+  border-radius: 8px;
 }
 /* 文章页圆角 */
 .layout > div:first-child:not(.recent-posts) {
-  border-radius: 25px;
+  border-radius: 20px;
 }
 /* 双栏卡片圆角 */
 #recent-posts > .recent-post-item {
-  border-radius: 25px;
+  border-radius: 20px;
 }
 /* github按钮圆角 */
 #card-info-btn {
-  border-radius: 25px;
+  border-radius: 20px;
   overflow: hidden;
 }
 #card-info-btn:before {
-  border-radius: 25px;
+  border-radius: 20px;
 }
 /* 右侧小按钮圆角 */
 #rightside > div > button,
