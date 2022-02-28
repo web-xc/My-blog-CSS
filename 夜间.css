@@ -1,4 +1,4 @@
 #content-inner {
-  --dark_bg_color: rgba(18, 18, 18, 0.8);
-  --dark_page_color: rgba(18, 18, 18, 0.8);
+  dark_bg_color: rgba(18, 18, 18, 0.8);
+  dark_page_color: rgba(18, 18, 18, 0.8);
 }
