@@ -1,0 +1,5 @@
+/* 文章标题居中 */
+#page h1.page-title,
+#post > #post-info {
+  text-align: center;
+}
