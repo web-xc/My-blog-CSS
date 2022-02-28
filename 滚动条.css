@@ -5,12 +5,12 @@
 }
 
 ::-webkit-scrollbar-track {
-  background-color: rgba(153, 204, 153, 0.2);
+  background-color: rgba(73, 177, 245, 0.2);
   border-radius: 2em;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #99cc99;
+  background-color: #49b1f5;
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
@@ -30,5 +30,5 @@
 
 ::-moz-selection {
   color: #fff;
-  background-color: #99cc99;
+  background-color: #49b1f5;
 }
