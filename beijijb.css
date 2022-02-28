@@ -2,7 +2,7 @@
 #content-inner {
   --light_bg_color: hsla(0, 0%, 100%, 0.6);
   --dark_bg_color: rgba(18, 18, 18, 0.8);
-  --light_page_color: hsla(0, 0%, 100%, 0.5);
+  --light_page_color: #fffffff5;
   --dark_page_color: rgba(18, 18, 18, 0.8);
   --light_link-bg: rgba(237, 240, 247, 0.46);
   --dark_link-bg: rgba(237, 240, 247, 0.05);
