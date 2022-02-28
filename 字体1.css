@@ -1,0 +1,83 @@
+/*字体*/
+@font-face {
+  font-family: "aqqxs"; /* 字体名自定义即可 */
+  src: url("https://www.xindong350.top/My-blog-CSS/ZhuZiAWan1.woff2"); /* 字体文件路径 */
+  font-display: swap;
+}
+
+a.article-title {
+  font-family: "aqqxs", sans-serif;
+}
+.content {
+  font-family: "aqqxs", sans-serif;
+}
+.article-meta-wrap {
+  font-family: "aqqxs", sans-serif;
+}
+div#bbtalk {
+  font-family: "aqqxs", sans-serif;
+}
+a#site-name {
+  font-family: "aqqxs", sans-serif;
+}
+.card-info-avatar.is-center {
+  font-family: "aqqxs", sans-serif;
+}
+p {
+  font-family: "aqqxs", sans-serif;
+}
+.card-widget.card-tags {
+  font-family: "aqqxs", sans-serif;
+}
+.card-widget.card-webinfo {
+  font-family: "aqqxs", sans-serif;
+}
+element.style {
+  font-family: "aqqxs", sans-serif;
+}
+.aplayer-music {
+  font-family: "aqqxs", sans-serif;
+}
+div#hopelight_plus_menu {
+  font-family: "aqqxs", sans-serif;
+}
+div#menus {
+  font-family: "aqqxs", sans-serif;
+}
+div#local-search-title {
+  font-family: "aqqxs", sans-serif;
+}
+input.local-search-box--input {
+  font-family: "aqqxs", sans-serif;
+}
+div#post-info {
+  font-family: "aqqxs", sans-serif;
+}
+.post-copyright {
+  font-family: "aqqxs", sans-serif;
+}
+.sticky_layout {
+  font-family: "aqqxs", sans-serif;
+}
+.search-dialog {
+  font-family: "aqqxs", sans-serif;
+}
+main#content-inner {
+  font-family: "aqqxs", sans-serif;
+}
+p {
+  font-family: "aqqxs", sans-serif !important;
+}
+#footer-wrap {
+  font-family: "aqqxs", sans-serif; /* 手机侧边栏 */
+}
+#sidebar #sidebar-menus.open {
+  font-family: "aqqxs", sans-serif; /* 页脚 */
+}
+#search-button {
+  font-family: "aqqxs", sans-serif; /* 搜索 */
+}
+#article-container code,
+#article-container pre {
+  font-family: "aqqxs", sans-serif !important; /* code标签以及代码块 */
+}
