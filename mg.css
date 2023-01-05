@@ -1,0 +1,59 @@
+/* 返回顶部 */
+button#go-up #percent {
+	display:none;
+	font-weight:bold;
+	font-size:15px !important;
+}
+button#go-up span {
+	font-size:12px!important;
+	margin-right:-1px;
+}
+/* 鼠标滑动到按钮上时显示返回顶部图标 */
+button#go-up:hover i {
+	display:block !important;
+}
+button#go-up:hover #percent {
+	display:none !important;
+}
+/* 轮播图 */
+.swiper-button-next:after,.swiper-button-prev:after {
+	color:#fff !important;
+	/*自己改*/
+}
+#recent-posts>.recent-post-item {
+	margin-top:-9rem;
+}
+@media screen and (max-width:768px) {
+	#category-bar {
+	margin-top:20px;
+}
+}@media screen and (min-width:980px) {
+	#recent-posts {
+	margin-top:-18px!important
+}
+#category-bar {
+	margin-top:20px;
+}
+}
+#article-container .flink .flink-list>.flink-list-item:hover {
+    box-shadow: 0px 0px 0px#fff !important
+}
+.category-lists ul li:nth-child(19) {
+    background: linear-gradient(to right,#c0c0aa,#1cefff);
+}
+.category-lists ul li:nth-child(20) {
+    background: linear-gradient(to right,#9796f0,#fbc7d4);
+}
+@media screen and (max-width: 668px) {
+#recent-posts :nth-of-type(3).recent-post-item {
+    border-radius: 20px 20px 0px 0px !important;
+}
+#recent-posts :nth-of-type(31).recent-post-item {
+	border-radius: 0px 0px 0px 0px !important;
+}
+#recent-posts :nth-of-type(32).recent-post-item {
+		border-radius: 0px 0px 20px 20px !important;
+}
+}
+/* @media screen and (min-width:900px) {
+	#aside-content { margin-top:-161px!important; */
